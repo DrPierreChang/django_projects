@@ -7,4 +7,4 @@ A brand-new Django project was created, defining a data model and fields, queryi
 
 
 ### Hello World
-My first django web site that was created according official django tutorial and deployed on pythonanewhere.com
+My first django web site that was created according to official django tutorial and deployed on pythonanewhere.com
