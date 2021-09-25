@@ -1,3 +1,5 @@
 # django_projects
 
-### Wisdom Pets
+### Wisdom Pet Medicine
+
+Project that manages pet adoptions.
