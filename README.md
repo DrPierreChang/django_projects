@@ -1,7 +1,6 @@
 <h1>Django Projects</h1>
 <h2 align="center">Wisdom Pet Medicine</h2>
 
-### Wisdom Pet Medicine
 #### What did i build?
 
 Project that manages pet adoptions.
@@ -17,8 +16,8 @@ http://35.75.254.207
 
 I want to add functionality to project and find aplication for it in real world. Also i am going to use it as template for future projects.
 
+<h2 align="center">Hello World</h2>
 
-### Hello World
 #### Implementation
 
 My first django web site.
