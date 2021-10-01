@@ -18,7 +18,7 @@ I want to add functionality to project and find aplication for it in real world.
 
 
 ### Hello World
-#### What is it?
+#### Implementation
 
 My first django web site.
 
@@ -29,7 +29,7 @@ Static HTML pages
 http://drpierrechang.pythonanywhere.com/site/
 
 
-#### How was is it build?
+#### Steps Involved
 
 It was created according to official django tutorial and deployed on pythonanewhere.com
 
@@ -40,6 +40,6 @@ It was created according to official django tutorial and deployed on pythonanewh
  - Adding HTML Content to Django
  - https://www.dj4e.com/assn/dj4e_html.md
 
-#### What I would like to do next?
+#### Future Steps
 
 I will use it as base for future django projects. 
