@@ -44,3 +44,6 @@ https://docs.djangoproject.com/en/3.0/intro/tutorial01/#creating-the-polls-app
  
 https://www.dj4e.com/assn/dj4e_html.md
 
+- What I would like to do next?
+
+I will use it as base for future django projects. 
