@@ -1,18 +1,18 @@
 # django_projects
 
 ### Wisdom Pet Medicine
-#### - What did i build?
+#### What did i build?
 
 Project that manages pet adoptions.
 ![alt text](https://github.com/DrPierreChang/django_projects/blob/main/wisdompets/static/images/header.jpg)
-- How did i build it?
+#### How did i build it?
 
 A brand-new Django project was created, defining a data model and fields, querying the database, and using the framework's built-in URL handlers, views, and templates to structure the rest of the back end. Plus, CSS and JavaScript were incorporated  to enhance the style and usability of Django templates.
 
 Project was deployed on Amazon Lightsail with Apache
 
 http://35.75.254.207
-- What I would like to do next?
+#### What I would like to do next?
 
 I want to add functionality to project and find aplication for it in real world. Also i am going to use it as template for future projects.
 
