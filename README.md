@@ -1,4 +1,4 @@
-# django_projects
+# Django Projects
 
 ### Wisdom Pet Medicine
 #### What did i build?
