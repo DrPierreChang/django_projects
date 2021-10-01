@@ -17,5 +17,18 @@ I want to add functionality to project and find aplication for it in real world.
 
 
 ### Hello World
-My first django web site that was created according to official django tutorial and deployed on pythonanewhere.com
+-What is it?
+
+My first django web site.
+
+Polls Aplication
+http://drpierrechang.pythonanywhere.com/polls/
+
+Static HTML pages
+http://drpierrechang.pythonanywhere.com/site/
+
+
+-How was is build?
+
+It was created according to official django tutorial and deployed on pythonanewhere.com
 
