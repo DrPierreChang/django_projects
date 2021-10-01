@@ -18,7 +18,7 @@ I want to add functionality to project and find aplication for it in real world.
 
 
 ### Hello World
--What is it?
+#### What is it?
 
 My first django web site.
 
@@ -29,7 +29,7 @@ Static HTML pages
 http://drpierrechang.pythonanywhere.com/site/
 
 
--How was is it build?
+#### How was is it build?
 
 It was created according to official django tutorial and deployed on pythonanewhere.com
 
@@ -45,6 +45,6 @@ https://docs.djangoproject.com/en/3.0/intro/tutorial01/#creating-the-polls-app
  
 https://www.dj4e.com/assn/dj4e_html.md
 
-- What I would like to do next?
+#### What I would like to do next?
 
 I will use it as base for future django projects. 
