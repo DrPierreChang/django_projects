@@ -1,7 +1,7 @@
 # django_projects
 
 ### Wisdom Pet Medicine
-- What did i build?
+#### - What did i build?
 
 Project that manages pet adoptions.
 ![alt text](https://github.com/DrPierreChang/django_projects/blob/main/wisdompets/static/images/header.jpg)
