@@ -28,7 +28,7 @@ Static HTML pages
 http://drpierrechang.pythonanywhere.com/site/
 
 
--How was is build?
+-How was is it build?
 
 It was created according to official django tutorial and deployed on pythonanewhere.com
 
