@@ -32,3 +32,15 @@ http://drpierrechang.pythonanywhere.com/site/
 
 It was created according to official django tutorial and deployed on pythonanewhere.com
 
+ Installing Django on PythonAnywhere
+ 
+https://www.dj4e.com/assn/dj4e_install.md
+
+ Creating-the-polls-app
+ 
+https://docs.djangoproject.com/en/3.0/intro/tutorial01/#creating-the-polls-app
+
+ Adding HTML Content to Django
+ 
+https://www.dj4e.com/assn/dj4e_html.md
+
