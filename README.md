@@ -1,6 +1,5 @@
-<p align="center">
-    # Django Projects
-</p>
+<h1 align="center">Django Projects</h1>
+
 # Django Projects
 
 ### Wisdom Pet Medicine
