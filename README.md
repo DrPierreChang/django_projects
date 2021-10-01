@@ -1,3 +1,6 @@
+<p align="center">
+    # Django Projects
+</p>
 # Django Projects
 
 ### Wisdom Pet Medicine
