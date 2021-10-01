@@ -1,5 +1,5 @@
-<h1 align="center">Django Projects</h1>
-<h2 align="center">Django Projects</h2>
+<h1>Django Projects</h1>
+<h2 align="center">Wisdom Pet Medicine</h2>
 
 ### Wisdom Pet Medicine
 #### What did i build?
