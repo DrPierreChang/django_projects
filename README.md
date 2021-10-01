@@ -13,7 +13,7 @@ Project was deployed on Amazon Lightsail with Apache
 http://35.75.254.207
 - What I would like to do next?
 
-I want to add functionality to project and find aplication for it in real world. Also i an going to use it as template for future projects.
+I want to add functionality to project and find aplication for it in real world. Also i am going to use it as template for future projects.
 
 
 ### Hello World
