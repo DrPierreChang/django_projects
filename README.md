@@ -1,6 +1,5 @@
 <h1 align="center">Django Projects</h1>
-
-# Django Projects
+<h2 align="center">Django Projects</h2>
 
 ### Wisdom Pet Medicine
 #### What did i build?
